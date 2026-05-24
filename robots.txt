@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barrixar.github.io/condominium-rental-contract/sitemap.xml
