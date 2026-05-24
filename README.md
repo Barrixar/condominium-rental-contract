@@ -1,6 +1,6 @@
 # Free Condominium Unit Rental Contract Template
 
-This repository provides a basic condominium unit rental contract template for public use by tenants, property owners, and property representatives, such as property managers and agents.
+This repository provides a basic condominium ("condo") unit rental contract template for public use by tenants, property owners, and property representatives, such as property managers and agents.
 
 The template is intended to be practical, printable, and easy to adapt. It includes fill-in fields for handwritten completion, signature areas, and editable document formats.
 
