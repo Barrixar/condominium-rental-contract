@@ -6,7 +6,7 @@ The template is intended to be practical, printable, and easy to adapt. It inclu
 
 ## Download
 
-- [GitHub Pages site for clean A4 printing](https://barrixar.github.io/condominium-rental-contract/)
+- [GitHub Pages landing site](https://barrixar.github.io/condominium-rental-contract/)
 - [PDF version for direct printing](Condominium%20Unit%20Rental%20Contract.pdf)
 - [HTML version for clean A4 printing](condominium_unit_rental_contract.html)
 - [DOCX version for editing in Microsoft Word](condominium_unit_rental_contract.docx)
