@@ -1,18 +1,20 @@
 # Free Condominium Unit Rental Contract Template
 
-This repository provides a basic condominium unit rental contract template for public use by tenants, property owners, and property representatives (such as property managers & agents).
+This repository provides a basic condominium unit rental contract template for public use by tenants, property owners, and property representatives, such as property managers and agents.
 
 The template is intended to be practical, printable, and easy to adapt. It includes fill-in fields for handwritten completion, signature areas, and editable document formats.
 
-## Accessing the Contract
+## Download
 
-The GitHub Pages site for the contract is: https://barrixar.github.io/condominium-rental-contract/ (The easiest way to print it to A4 paper)
-
-The PDF form of the contract is: https://github.com/Barrixar/condominium-rental-contract/blob/main/Condominium%20Unit%20Rental%20Contract.pdf
+- [GitHub Pages landing page](https://barrixar.github.io/condominium-rental-contract/)
+- [PDF version for direct printing](Condominium%20Unit%20Rental%20Contract.pdf)
+- [HTML version for clean A4 printing](condominium_unit_rental_contract.html)
+- [DOCX version for editing in Microsoft Word](condominium_unit_rental_contract.docx)
+- [ODT version for editing in LibreOffice or other open document editors](condominium_unit_rental_contract.odt)
 
 ## Public Domain / CC0 Notice
 
-This template is dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+This template is dedicated to the public domain under the Creative Commons Zero v1.0 Universal Public Domain Dedication.
 
 You may copy, modify, share, translate, print, redistribute, or adapt this template for any purpose, including personal, educational, nonprofit, commercial, or government use, without asking permission and without giving attribution.
 
@@ -22,7 +24,7 @@ Attribution is appreciated but not required.
 
 This template is provided for general informational and practical use only. It is not legal advice and does not create an attorney-client relationship.
 
-Rental laws, condominium rules, and contract requirements vary by location. Before using this template for an actual rental arrangement, users should review and adapt it (if neccesary) for their local laws, building rules, and specific agreement terms.
+Rental laws, condominium rules, and contract requirements vary by location. Before using this template for an actual rental arrangement, users should review and adapt it, if necessary, for their local laws, building rules, and specific agreement terms.
 
 ## Available Formats
 
