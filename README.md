@@ -2,9 +2,13 @@
 
 This repository provides a basic condominium unit rental contract template for public use by tenants, property owners, and property representatives (such as property managers & agents).
 
-It can be found here (PDF): https://github.com/Barrixar/condominium-rental-contract/blob/main/Condominium%20Unit%20Rental%20Contract.pdf
-
 The template is intended to be practical, printable, and easy to adapt. It includes fill-in fields for handwritten completion, signature areas, and editable document formats.
+
+## Accessing the Contract
+
+The GitHub Pages site for the contract is: https://barrixar.github.io/condominium-rental-contract/ (The easiest way to print it to A4 paper)
+
+The PDF form of the contract is: https://github.com/Barrixar/condominium-rental-contract/blob/main/Condominium%20Unit%20Rental%20Contract.pdf
 
 ## Public Domain / CC0 Notice
 
